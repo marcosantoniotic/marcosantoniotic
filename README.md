@@ -47,8 +47,8 @@
 
 ### 📊 Estatísticas do GitHub:
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosantoniotic&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosantoniotic&layout=compact&langs_count=7&theme=tokyonight&theme=tokyonight&cache_seconds=7200"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosantoniotic&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosantoniotic&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1800"/>
 </div>
 
 ---
