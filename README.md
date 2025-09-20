@@ -54,5 +54,7 @@
 ---
 
 ### 📂 Projetos em destaque:
-🔜 Em breve você verá aqui meus projetos organizados desde o início, alinhados com meu perfil do LinkedIn e outras redes.  
-- [Linux + Apache Lab](https://github.com/marcosantoniotic/linux-apache)
+🔜 Em breve você verá aqui meus projetos organizados desde o início, alinhados com meu perfil do LinkedIn e outras redes.
+
+- 🔗 [Linux + Apache Lab](https://github.com/marcosantoniotic/linux-apache)  
+  > Este projeto configura automaticamente um ambiente de laboratório com Linux + Apache utilizando Vagrant e PowerShell no Windows.
