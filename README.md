@@ -1,6 +1,16 @@
 ### Olá! Eu sou o Marcos Antonio! 👋
+---
 
+### 👨‍💻 Sobre mim  
+- 🔹 Analista de TI – Redes e Infraestrutura  
+- 🔹 Entusiasta de **DevOps** e **Cloud**  
+- 🔹 Estudando continuamente **Azure, IaC, CI/CD e Containers**  
+- 🔹 Apaixonado por laboratórios práticos e projetos organizados no GitHub  
+
+---
 <div align="center"> 
+<a href="mailto:marnep.tic@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
   <a href="https://www.youtube.com/channel/UCEoqQByA8Hm9qE10pqmIVxw" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
@@ -17,14 +27,6 @@
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
-
----
-
-### 👨‍💻 Sobre mim  
-- 🔹 Analista de TI – Redes e Infraestrutura  
-- 🔹 Entusiasta de **DevOps** e **Cloud**  
-- 🔹 Estudando continuamente **Azure, IaC, CI/CD e Containers**  
-- 🔹 Apaixonado por laboratórios práticos e projetos organizados no GitHub  
 
 ---
 
