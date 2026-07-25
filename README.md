@@ -2,24 +2,24 @@
 
 ## Analista de Infraestrutura e Redes
 
-Profissional de tecnologia com experiência em infraestrutura de redes, administração de ambientes Windows e Linux, virtualização, cloud, monitoramento e suporte a operações distribuídas de grande escala.
+Analista de Infraestrutura e Redes com experiência na administração e sustentação de ambientes Windows Server e Linux, redes corporativas, virtualização com VMware, Hyper-V e Proxmox, cloud, monitoramento e segurança.
 
-Atuo na sustentação e evolução de ambientes cabeados e Wi-Fi, conectividade LAN/WAN/VPN, troubleshooting avançado, gestão de ativos de rede, relacionamento com fornecedores e implementação de mudanças em rotas, VLANs e regras de acesso.
+Atuo na sustentação e evolução de infraestruturas críticas, distribuídas e de grande escala. Minha experiência abrange troubleshooting avançado, disponibilidade e desempenho, monitoramento proativo, automação de continuidade, administração de serviços de infraestrutura, coordenação técnica e relacionamento com operadoras, fornecedores, gestores e áreas de negócio.
 
 ### Áreas de atuação
 
+- Administração de sistemas Windows Server e Linux
 - Infraestrutura e redes corporativas
-- Administração Windows e Linux
-- Virtualização com VMware
+- Virtualização com VMware, Hyper-V e Proxmox
 - Microsoft Azure
 - Monitoramento e observabilidade
-- Segurança e disponibilidade de redes
+- Segurança, disponibilidade e continuidade
 - Documentação e padronização técnica
 
 ### Tecnologias e ferramentas
 
+`Windows Server` · `Linux` · `VMware` · `Hyper-V` · `Proxmox` · `Azure`  
 `Cisco` · `MikroTik` · `FortiGate` · `Check Point` · `SonicWall` · `Aruba` · `Ubiquiti`  
-`Windows Server` · `Linux` · `VMware` · `Azure`  
 `Zabbix` · `Grafana` · `Prometheus` · `The Dude` · `NetBox`  
 `Git` · `GitHub Actions` · `Vagrant` · `Docker`
 
