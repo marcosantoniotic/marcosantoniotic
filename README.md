@@ -18,10 +18,44 @@ Atuo na sustentação e evolução de infraestruturas críticas, distribuídas e
 
 ### Tecnologias e ferramentas
 
-`Windows Server` · `Linux` · `VMware` · `Hyper-V` · `Proxmox` · `Azure`  
-`Cisco` · `MikroTik` · `FortiGate` · `Check Point` · `SonicWall` · `Aruba` · `Ubiquiti`  
-`Zabbix` · `Grafana` · `Prometheus` · `The Dude` · `NetBox`  
-`Git` · `GitHub Actions` · `Vagrant` · `Docker`
+**Sistemas operacionais**
+
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows11&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+
+**Virtualização e cloud**
+
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+**Redes e segurança**
+
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white)
+![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?style=flat-square&logo=fortinet&logoColor=white)
+![Check Point](https://img.shields.io/badge/Check_Point-E83E8C?style=flat-square&logoColor=white)
+![SonicWall](https://img.shields.io/badge/SonicWall-0071CE?style=flat-square&logoColor=white)
+![Aruba](https://img.shields.io/badge/Aruba-FF8300?style=flat-square&logoColor=white)
+![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=flat-square&logo=ubiquiti&logoColor=white)
+
+**Monitoramento e documentação**
+
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![The Dude](https://img.shields.io/badge/The_Dude-293239?style=flat-square&logoColor=white)
+![NetBox](https://img.shields.io/badge/NetBox-1385B7?style=flat-square&logoColor=white)
+
+**Automação e laboratórios**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=flat-square&logo=vagrant&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### Projetos em destaque
 
