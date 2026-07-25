@@ -1,57 +1,43 @@
-### Olá! Eu sou o Marcos Antonio! 👋
----
+# Marcos Antonio
 
-### 👨‍💻 Sobre mim  
-- 🔹 Analista de TI – Redes e Infraestrutura  
-- 🔹 Entusiasta de **DevOps** e **Cloud**  
-- 🔹 Estudando continuamente **Azure, IaC, CI/CD e Containers**  
-- 🔹 Apaixonado por laboratórios práticos e projetos organizados no GitHub  
+## Analista de Infraestrutura e Redes
 
----
-## 🌐 Contato
-<div align="center"> 
-<a href="mailto:marnep.tic@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.youtube.com/channel/UCEoqQByA8Hm9qE10pqmIVxw" target="_blank"></a>
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://www.instagram.com/marnep12/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.twitch.tv/marnep12" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/marcosantoniotic/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/marcosantoniotic" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
+Profissional de tecnologia com experiência em infraestrutura de redes, administração de ambientes Windows e Linux, virtualização, cloud, monitoramento e suporte a operações distribuídas de grande escala.
 
----
+Atuo na sustentação e evolução de ambientes cabeados e Wi-Fi, conectividade LAN/WAN/VPN, troubleshooting avançado, gestão de ativos de rede, relacionamento com fornecedores e implementação de mudanças em rotas, VLANs e regras de acesso.
 
-### 🚀 Tecnologias que mais utilizo:
-<div style="display: inline_block"><br>
-  <img align="center" alt="VMware" height="30" width="40" src="https://img.icons8.com/color/48/000000/vmware.png"/>
-  <img align="center" alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" alt="Azure" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-  <img align="center" alt="Ansible" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
-  <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="center" alt="Kubernetes" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
-  <img align="center" alt="Terraform" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
-  <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="center" alt="Vagrant" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" />
-  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Powershell" height="30" width="40" src="https://img.icons8.com/color/48/000000/powershell.png"/>
-</div>
+### Áreas de atuação
 
----
+- Infraestrutura e redes corporativas
+- Administração Windows e Linux
+- Virtualização com VMware
+- Microsoft Azure
+- Monitoramento e observabilidade
+- Segurança e disponibilidade de redes
+- Documentação e padronização técnica
 
-### 📊 Estatísticas do GitHub:
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosantoniotic&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosantoniotic&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1800"/>
-</div>
+### Tecnologias e ferramentas
 
----
+`Cisco` · `MikroTik` · `FortiGate` · `Check Point` · `SonicWall` · `Aruba` · `Ubiquiti`  
+`Windows Server` · `Linux` · `VMware` · `Azure`  
+`Zabbix` · `Grafana` · `Prometheus` · `The Dude` · `NetBox`  
+`Git` · `GitHub Actions` · `Vagrant` · `Docker`
 
-### 📂 Projetos em destaque:
-🔜 Em breve você verá aqui meus projetos organizados desde o início, alinhados com meu perfil do LinkedIn e outras redes.
+### Projetos em destaque
 
-- 🔗 [Linux + Apache Lab](https://github.com/marcosantoniotic/linux-apache)  
-  > Este projeto configura automaticamente um ambiente de laboratório com Linux + Apache utilizando Vagrant e PowerShell no Windows.
+- **[Infra Monitoring Lab](https://github.com/marcosantoniotic/infra-monitoring-lab)** — laboratório automatizado de monitoramento com Vagrant, Docker Compose, Zabbix e Grafana.
+- **[Linux Apache Lab CI](https://github.com/marcosantoniotic/linux-apache-lab-ci)** — laboratório Linux e Apache com provisionamento reproduzível e validação por GitHub Actions.
+- **[Telegram Bot Email](https://github.com/marcosantoniotic/telegram-bot-email)** — automação em Python integrando notificações por Telegram e e-mail.
+- **[Git & GitHub Guide](https://github.com/marcosantoniotic/git-github-guide)** — guia prático de Git e GitHub com exemplos e documentação visual.
+
+### Atualmente
+
+- Aperfeiçoando práticas de automação, infraestrutura como código e observabilidade.
+- Desenvolvendo laboratórios reproduzíveis para documentar soluções de infraestrutura.
+- Aplicando monitoramento proativo e automação para aumentar a disponibilidade dos ambientes.
+
+### Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosantoniotic/)
+[![E-mail](https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:marcosantoniotic@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcosantoniotic)
