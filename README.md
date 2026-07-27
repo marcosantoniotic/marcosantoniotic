@@ -62,7 +62,6 @@ Atuo na sustentação e evolução de infraestruturas críticas, distribuídas e
 - **[Infra Monitoring Lab](https://github.com/marcosantoniotic/infra-monitoring-lab)** — laboratório automatizado de monitoramento com Vagrant, Docker Compose, Zabbix e Grafana.
 - **[Linux Apache Lab CI](https://github.com/marcosantoniotic/linux-apache-lab-ci)** — laboratório Linux e Apache com provisionamento reproduzível e validação por GitHub Actions.
 - **[Telegram Bot Email](https://github.com/marcosantoniotic/telegram-bot-email)** — automação em Python integrando notificações por Telegram e e-mail.
-- **[Git & GitHub Guide](https://github.com/marcosantoniotic/git-github-guide)** — guia prático de Git e GitHub com exemplos e documentação visual.
 
 ### Atualmente
 
