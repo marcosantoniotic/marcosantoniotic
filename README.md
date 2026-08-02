@@ -49,7 +49,7 @@ Atuo na sustentação e evolução de infraestruturas críticas, distribuídas e
 ![The Dude](https://img.shields.io/badge/The_Dude-293239?style=flat-square&logoColor=white)
 ![NetBox](https://img.shields.io/badge/NetBox-1385B7?style=flat-square&logoColor=white)
 
-**Automação e laboratórios**
+**Automação e plataformas**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
@@ -59,15 +59,25 @@ Atuo na sustentação e evolução de infraestruturas críticas, distribuídas e
 
 ### Projetos em destaque
 
+#### [Infrastructure Operations Platform](https://github.com/marcosantoniotic/infrastructure-operations-platform)
+
+Projeto principal de portfólio: plataforma autoral e reproduzível de operações de infraestrutura, baseada em desafios e padrões profissionais reais. Integra RHEL, Ansible, Docker, Traefik, NetBox, Zabbix, Prometheus e Grafana com segurança, observabilidade, backup, recuperação e governança documentada.
+
+[![Projeto](https://img.shields.io/badge/Ver_projeto-181717?style=for-the-badge&logo=github)](https://github.com/marcosantoniotic/infrastructure-operations-platform)
+[![Release](https://img.shields.io/github/v/release/marcosantoniotic/infrastructure-operations-platform?style=for-the-badge&label=release)](https://github.com/marcosantoniotic/infrastructure-operations-platform/releases/latest)
+[![Validation](https://img.shields.io/github/actions/workflow/status/marcosantoniotic/infrastructure-operations-platform/validation.yml?branch=main&style=for-the-badge&label=validation)](https://github.com/marcosantoniotic/infrastructure-operations-platform/actions/workflows/validation.yml)
+
+**Resultados:** infraestrutura como código, implantação modular, CI, inventário técnico, monitoramento, dashboards, proteção de serviços e continuidade validada com evidências sanitizadas.
+
 - **[Infra Monitoring Lab](https://github.com/marcosantoniotic/infra-monitoring-lab)** — laboratório automatizado de monitoramento com Vagrant, Docker Compose, Zabbix e Grafana.
 - **[Linux Apache Lab CI](https://github.com/marcosantoniotic/linux-apache-lab-ci)** — laboratório Linux e Apache com provisionamento reproduzível e validação por GitHub Actions.
 - **[Telegram Bot Email](https://github.com/marcosantoniotic/telegram-bot-email)** — automação em Python integrando notificações por Telegram e e-mail.
 
 ### Atualmente
 
-- Aperfeiçoando práticas de automação, infraestrutura como código e observabilidade.
-- Desenvolvendo laboratórios reproduzíveis para documentar soluções de infraestrutura.
-- Aplicando monitoramento proativo e automação para aumentar a disponibilidade dos ambientes.
+- Evoluindo o Infrastructure Operations Platform como referência reproduzível de engenharia de infraestrutura.
+- Aplicando infraestrutura como código, observabilidade, segurança e continuidade em cenários controlados de validação.
+- Transformando experiência operacional em automações, runbooks, decisões arquiteturais e evidências verificáveis.
 
 ### Contato
 
