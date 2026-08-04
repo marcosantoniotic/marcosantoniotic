@@ -81,6 +81,7 @@ Projeto principal de portfólio: plataforma autoral e reproduzível de operaçõ
 
 ### Contato
 
+[![Portfólio](https://img.shields.io/badge/Portfólio-0B5FFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://marcosantoniotic.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosantoniotic/)
 [![E-mail](https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:marcosantoniotic@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcosantoniotic)
